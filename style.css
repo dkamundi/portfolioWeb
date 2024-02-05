@@ -11,14 +11,11 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-<<<<<<< HEAD
 body.dark-mode {
   background-color: #333;
   color: #fff;
 }
 
-=======
->>>>>>> origin/main
 html {
   scroll-behavior: smooth;
 }
